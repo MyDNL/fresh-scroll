@@ -1,7 +1,8 @@
 # Fresh infinite-scroll project
 
 This Deno Fresh project tries to implement infinite-scrolling in an SSR framework.
-It uses "Fresh Partials". Docs here: https://fresh.deno.dev/docs/concepts/partials
+It uses "Fresh Partials".  
+Docs here: https://fresh.deno.dev/docs/concepts/partials
 
 The project is also a very basic PWA which can be installed on client device.
 So the scrolling experience could be better.
@@ -10,8 +11,8 @@ So the scrolling experience could be better.
 
 Hit the "Load More..." button when you arrived at the bottom.
 Next page of records will be rendered and fetched from the server.
-Resulting html will be appended to the end of the list.
-Watch the netork tab in Dev tools.
+Resulting html will be appended to the end of the list.  
+Watch the network tab in DevTools.
 
 ### Better
 

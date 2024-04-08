@@ -10,7 +10,7 @@ function loadMore() {
 
 export function LoadMoreButton() {
   return(
-    <div class="flex flex-col items-center">
+    <div class="flex flex-col items-center py-2">
       {/* <form method="get"> */}
         <button
           type="button"
